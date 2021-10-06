@@ -44,7 +44,7 @@ header{
 
 .menu >a:hover{
     color: #1AB2FB;
-    
+    background-color: black;
     
     transition: .5s;  
     
