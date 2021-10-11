@@ -5,8 +5,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    
+    box-sizing: border-box;   
 }
 
 .center{
@@ -83,12 +82,19 @@ section.sobre{
     top: 150px;
 }
 
-.social-media  img{
+.social-media a{
+    text-decoration: none;
+}
+
+.social-media .fa{
     display: flex;
-    justify-content: end;
-    width: 35px;
-    margin: 10px 1000px;
-    
+    justify-content: flex-end;
+    width: 1000px;
+    font-size: 40px;
+    text-decoration: none;
+    color: #fff;   
+    align-items: center; 
+    padding: 5px;
 }
 
 .marca{
