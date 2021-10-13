@@ -97,6 +97,10 @@ section.sobre{
     padding: 5px;
 }
 
+.social-media .fa-facebook{
+    width: 992px;
+}
+
 .marca{
     display: flex;
     flex-direction: column;
