@@ -63,7 +63,6 @@ header{
 section.sobre{
     height: calc(100% - 200px);
     position: relative;
-    
 }
 
 .extras{
@@ -95,6 +94,10 @@ section.sobre{
     color: #fff;   
     align-items: center; 
     padding: 5px;
+}
+
+.social-media .fa:hover{
+    color: black;
 }
 
 .social-media .fa-facebook{
